@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/xCaptaiN09/xCaptaiN09/blob/main/ResizedImage_2026-01-26_22-50-44_7676.webp" width="850" alt="Setup" />
+  <img src="https://github.com/xCaptaiN09/xCaptaiN09/blob/main/ResizedImage_2026-01-26_22-55-00_1617.webp" width="850" alt="Setup" />
 </p>

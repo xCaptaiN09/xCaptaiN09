@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/OS-ARCH%20LINUX-30363D?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/WM-HYPRLAND-30363D?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=D9CFA3" /><br>
   <img src="https://img.shields.io/badge/SHELL-CAELESTIA-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/TERM-KITTY-30363D?style=for-the-badge&logo=kitty&logoColor=black&labelColor=D9CFA3" />
+  <img src="https://img.shields.io/badge/TERM-KITTY-30363D?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/IDE-ZED-30363D?style=for-the-badge&labelColor=D9CFA3" /><br>
   <img src="https://img.shields.io/badge/LANG-PYTHON-30363D?style=for-the-badge&logo=python&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/LANG-C-30363D?style=for-the-badge&logo=c&logoColor=black&labelColor=D9CFA3" /><br>

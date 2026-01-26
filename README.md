@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ANDROID--KERNEL--DEV-30363D?style=for-the-badge&labelColor=D9CFA3&logoColor=black" />
-  <img src="https://img.shields.io/badge/ARCH--LINUX--ENTHUSIAST-30363D?style=for-the-badge&labelColor=D9CFA3&logoColor=black" />
   <img src="https://img.shields.io/badge/AI--%26--DS-30363D?style=for-the-badge&labelColor=D9CFA3&logoColor=black" />
 </p>
 
@@ -14,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LAPTOP-GALAXY%20BOOK%204-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/CPU-INTEL%20i5--120U-30363D?style=for-the-badge&logo=intel&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/RAM-16GB-30363D?style=for-the-badge&labelColor=D9CFA3" />
 </p>
 
 <p align="center">
@@ -37,19 +34,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAELESTIA--HYPR--DOTS-D9CFA3?style=for-the-badge&labelColor=30363D" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup.png" width="850" alt="My Setup" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/xCaptaiN09/Caelestia-shell-dotfiles">Dotfiles</a> | 
-  <a href="https://t.me/xCaptain_09">Telegram</a> | 
-  <a href="https://github.com/xCaptaiN09/Sortify">Sortify</a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xCaptaiN09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/xCaptain_09">Telegram</a> |
+  <a href="https://github.com/xCaptaiN09/Sortify">Sortify</a>
 </p>

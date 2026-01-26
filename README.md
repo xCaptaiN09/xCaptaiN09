@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup.png" width="850" alt="Setup" />
+  <img src="https://github.com/xCaptaiN09/xCaptaiN09/blob/main/ResizedImage_2026-01-26_22-38-35_8644.webp" width="850" alt="Setup" />
 </p>

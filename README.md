@@ -3,42 +3,71 @@
 **2nd Year B.Tech Student | AI & Data Science**
 **Android Kernel & ROM Developer | Arch Linux Enthusiast**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xCaptaiN09&color=0078D4&style=for-the-badge" alt="Views" />
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-30363D?style=for-the-badge" alt="Profile Views Label" />
+  <img src="https://komarev.com/ghpvc/?username=xCaptaiN09&style=for-the-badge&color=ECA51C&label=" alt="Profile Views Count" />
 </p>
 
-### 💻 System & Environment
-<p align="left">
-  <img src="https://img.shields.io/badge/LAPTOP-SAMSUNG%20GALAXY%20BOOK%204-0078D4?style=for-the-badge&logo=samsung&logoColor=white" />
-  <img src="https://img.shields.io/badge/CPU-INTEL%20CORE%205%20120U-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-HYPRLAND-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/LAPTOP-GALAXY%20BOOK%204-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" alt="Laptop" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/CPU-INTEL%20i5-30363D?style=for-the-badge&logo=intel&logoColor=black&labelColor=D9CFA3" alt="CPU" />
+  </a>
+   <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/RAM-16GB-30363D?style=for-the-badge&labelColor=D9CFA3" alt="RAM" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SHELL-CAELESTIA-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TERM-KITTY-000000?style=for-the-badge&logo=kitty&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-ZED-black?style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/OS-ARCH%20LINUX-30363D?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=D9CFA3" alt="OS" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/WM-HYPRLAND-30363D?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=D9CFA3" alt="WM" />
+  </a>
 </p>
 
-### 🛠️ Technical Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/SHELL-CAELESTIA-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" alt="Shell" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/TERM-KITTY-30363D?style=for-the-badge&logo=kitty&logoColor=black&labelColor=D9CFA3" alt="Terminal" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/IDE-ZED-30363D?style=for-the-badge&labelColor=D9CFA3" alt="IDE" />
+  </a>
 </p>
 
-### 🚀 Primary Projects
-* **[Kernel_Realme_RMX3031_Next_NH](https://github.com/xCaptaiN09/Kernel_Realme_RMX3031_Next_NH)**: Custom kernel for Realme X7 Max.
-* **[Sortify](https://github.com/xCaptaiN09/Sortify)**: Automation for Magisk/KernelSU/SukiSU modules.
-* **[RealmeX7Max-Audio-Policy-Fix](https://github.com/xCaptaiN09/RealmeX7Max-Audio-Policy-Fix)**: Fixing audio routing & pause death.
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCaptaiN09&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCaptaiN09&layout=compact&theme=dark" height="150" />
+<p align="center">
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/LANG-PYTHON-30363D?style=for-the-badge&logo=python&logoColor=black&labelColor=D9CFA3" alt="Python" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/LANG-C-30363D?style=for-the-badge&logo=c&logoColor=black&labelColor=D9CFA3" alt="C" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/LANG-C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=D9CFA3" alt="C++" />
+  </a>
+  <a href="https://github.com/xCaptaiN09">
+    <img src="https://img.shields.io/badge/LANG-SHELL-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" alt="Shell Language" />
+  </a>
 </p>
 
-### 📫 Connect with me
-[![](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xCaptain_09)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MY-HYPRLAND-SETUP-ECA51C?style=for-the-badge&labelColor=30363D" alt="Setup Title" />
+</p>
+
+<p align="center">
+  <img src="YOUR_SCREENSHOT_URL_HERE" alt="My Desktop Setup" width="800" />
+</p>
+
+<p align="center">
+  Check out my dotfiles: <a href="https://github.com/xCaptaiN09/Caelestia-shell-dotfiles">Caelestia-shell-dotfiles</a>
+</p>

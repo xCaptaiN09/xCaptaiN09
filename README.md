@@ -7,6 +7,7 @@
   <a href="https://t.me/xCaptain_09"><img src="https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge&logo=telegram&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/Sortify"><img src="https://img.shields.io/badge/SORTIFY-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/pixie-sddm"><img src="https://img.shields.io/badge/PIXIE-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
+  <a href="https://github.com/xCaptaiN09/glyph-sddm"><img src="https://img.shields.io/badge/GLYPH-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
 </p>
 
 ---

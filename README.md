@@ -14,7 +14,7 @@
   <a href="https://t.me/xCaptain_09"><img src="https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge&logo=telegram&logoColor=D9CFA3" /></a>
   <a href="https://rmx3031-archive.pages.dev"><img src="https://img.shields.io/badge/ARCHIVE-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
 </p>
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/LAPTOP-SAMSUNG-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" /><br>

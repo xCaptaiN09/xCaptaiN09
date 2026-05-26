@@ -9,12 +9,8 @@
   <a href="https://github.com/xCaptaiN09/pixie-sddm"><img src="https://img.shields.io/badge/PIXIE-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/glyph-sddm"><img src="https://img.shields.io/badge/GLYPH-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/echo-sddm"><img src="https://img.shields.io/badge/ECHO-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
-</p>
-<p align="center">
-  <a href="https://t.me/xCaptain_09"><img src="https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge&logo=telegram&logoColor=D9CFA3" /></a>
   <a href="https://rmx3031-archive.pages.dev"><img src="https://img.shields.io/badge/ARCHIVE-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/LAPTOP-SAMSUNG-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" /><br>
@@ -29,6 +25,12 @@
   <img src="https://img.shields.io/badge/LANG-C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/LANG-SHELL-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" />
 </p>
+
+---
+
+| Metrics | Stats |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=xCaptaiN09&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCaptaiN09&theme=transparent&hide_border=true&layout=compact" alt="Top Languages"/><br/><img src="https://github-readme-streak-stats-eight.vercel.app/?user=xCaptaiN09&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /> |
 
 ---
 

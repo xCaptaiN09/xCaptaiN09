@@ -30,7 +30,7 @@
 
 | Metrics | Stats |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=xCaptaiN09&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCaptaiN09&theme=transparent&hide_border=true&layout=compact" alt="Top Languages"/><br/><img src="https://github-readme-stats.vercel.app/api?username=xCaptaiN09&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Streak" /> |
+| <picture><img src="/github-metrics.svg" alt="Metrics" /></picture> | <img src="/top-langs.svg" alt="Top Languages"/><br/><img src="https://github-readme-streak-stats-eight.vercel.app/?user=xCaptaiN09&theme=transparent&hide_border=true&short_numbers=true&card_width=200" alt="GitHub Streak" /> |
 
 ---
 

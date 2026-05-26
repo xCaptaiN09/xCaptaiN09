@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/xCaptaiN09/xCaptaiN09/blob/main/setup2.webp" width="850" alt="Setup" />
+  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup2.webp" width="850" alt="Setup" />
 </p>

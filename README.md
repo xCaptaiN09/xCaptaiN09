@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D9CFA3&center=true&vCenter=true&width=700&lines=xCaptaiN09+%7C+Dilshad;Android+Kernel+%26+ROM+Developer;Arch+Linux+%7C+Hyprland+%7C+Zed;AI+%26+Data+Science+%282028%29;Building+for+the+Long+Game." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,30363D&height=180&section=header&text=Dilshad%20%7C%20xCaptaiN09&fontSize=38&fontColor=D9CFA3&animation=fadeIn&fontAlignY=40&desc=Kernel%20Developer%20%7C%20Systems%20Engineer%20%7C%20AI%20Data%20Science&descAlignY=62&descSize=14&descColor=9a9080" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=D9CFA3&center=true&vCenter=true&width=700&lines=Android+Kernel+%26+ROM+Developer;Arch+Linux+%7C+Hyprland+%7C+Zed;AI+%26+Data+Science+Undergrad+%282028%29;Open+Source+%7C+SDDM+Themes+%7C+Kernel+Work;Building+for+the+Long+Game." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -22,15 +28,15 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LAPTOP-SAMSUNG-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" /><br>
-  <img src="https://img.shields.io/badge/CPU-INTEL%20i5%20120U-30363D?style=for-the-badge&logo=intel&logoColor=black&labelColor=D9CFA3" /><br>
+  <img src="https://img.shields.io/badge/LAPTOP-SAMSUNG-30363D?style=for-the-badge&logo=samsung&logoColor=black&labelColor=D9CFA3" /><br/>
+  <img src="https://img.shields.io/badge/CPU-INTEL%20Core%205%20120U-30363D?style=for-the-badge&logo=intel&logoColor=black&labelColor=D9CFA3" /><br/>
   <img src="https://img.shields.io/badge/OS-ARCH%20LINUX-30363D?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/WM-HYPRLAND-30363D?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=D9CFA3" /><br>
+  <img src="https://img.shields.io/badge/WM-HYPRLAND-30363D?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=D9CFA3" /><br/>
   <img src="https://img.shields.io/badge/SHELL-CAELESTIA-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/TERM-KITTY-30363D?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/IDE-ZED-30363D?style=for-the-badge&labelColor=D9CFA3" /><br>
+  <img src="https://img.shields.io/badge/TERM-KITTY-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" />
+  <img src="https://img.shields.io/badge/IDE-ZED-30363D?style=for-the-badge&labelColor=D9CFA3" /><br/>
   <img src="https://img.shields.io/badge/LANG-PYTHON-30363D?style=for-the-badge&logo=python&logoColor=black&labelColor=D9CFA3" />
-  <img src="https://img.shields.io/badge/LANG-C-30363D?style=for-the-badge&logo=c&logoColor=black&labelColor=D9CFA3" /><br>
+  <img src="https://img.shields.io/badge/LANG-C-30363D?style=for-the-badge&logo=c&logoColor=black&labelColor=D9CFA3" /><br/>
   <img src="https://img.shields.io/badge/LANG-C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=D9CFA3" />
   <img src="https://img.shields.io/badge/LANG-SHELL-30363D?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=D9CFA3" />
 </p>
@@ -44,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xCaptaiN09&bg_color=0d0d0d&color=D9CFA3&line=30363D&point=D9CFA3&area=true&area_color=30363D&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xCaptaiN09&bg_color=0d0d0d&color=D9CFA3&line=555555&point=D9CFA3&area=true&area_color=30363D&hide_border=true" />
 </p>
 
 ---
@@ -57,4 +63,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup2.webp" width="850" alt="Setup" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,30363D,1a1a2e&height=120&section=footer" />
 </p>

@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30363D&height=200&section=header&text=Dilshad%20%7C%20xCaptaiN09&fontSize=40&fontColor=D9CFA3&animation=fadeIn&fontAlignY=38&desc=Kernel%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Science&descAlignY=60&descSize=16&descColor=a89f8c" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=D9CFA3&center=true&vCenter=true&width=700&lines=Android+Kernel+%26+ROM+Developer;Linux+Systems+Engineer+%7C+Arch+%2B+Hyprland;AI+%26+Data+Science+Undergrad+%282028%29;Open+Source+Contributor+%7C+SDDM+Themes;Building+for+the+Long+Game." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D9CFA3&center=true&vCenter=true&width=700&lines=xCaptaiN09+%7C+Dilshad;Android+Kernel+%26+ROM+Developer;Arch+Linux+%7C+Hyprland+%7C+Zed;AI+%26+Data+Science+%282028%29;Building+for+the+Long+Game." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,10 +57,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup2.webp" width="850" alt="Setup" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30363D&height=120&section=footer" />
 </p>

@@ -41,8 +41,8 @@
 
 ---
 
-| Metrics | Stats |
-| :--- | :--- |
+| Metrics                                                            | Stats                                                                                                                                                                                                                           |
+| :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <picture><img src="/github-metrics.svg" alt="Metrics" /></picture> | <img src="/top-langs.svg" alt="Top Languages"/><br/><img src="https://github-readme-streak-stats-eight.vercel.app/?user=xCaptaiN09&theme=transparent&hide_border=true&short_numbers=true&card_width=200" alt="GitHub Streak" /> |
 
 ---
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/setup2.webp" width="850" alt="Setup" />
+  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/Assets/xcaptain-banner.webp" width="850" alt="xcaptain-banner" />
 </p>
 
 ---

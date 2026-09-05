@@ -47,11 +47,13 @@
 
 ---
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xCaptaiN09&bg_color=0d0d0d&color=D9CFA3&line=555555&point=D9CFA3&area=true&area_color=30363D&hide_border=true" />
 </p>
 
 ---
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/output/github-contribution-grid-snake-dark.svg" />

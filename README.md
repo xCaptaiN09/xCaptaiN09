@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/Assets/xcaptain-banner1.webp" width="850" alt="xcaptain-banner" />
+  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/main/Assets/xcaptain-banner2.webp" width="850" alt="xcaptain-banner" />
 </p>
 
 ---

@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <a href="https://xcaptain09.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-30363D?style=for-the-badge&logo=googlechrome&logoColor=D9CFA3" /></a>
   <a href="https://t.me/xCaptain_09"><img src="https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge&logo=telegram&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/Sortify"><img src="https://img.shields.io/badge/SORTIFY-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
   <a href="https://github.com/xCaptaiN09/pixie-sddm"><img src="https://img.shields.io/badge/PIXIE-30363D?style=for-the-badge&logo=github&logoColor=D9CFA3" /></a>
@@ -42,7 +43,7 @@
 ---
 
 | Metrics                                                            | Stats                                                                                                                                                                                                                           |
-| :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <picture><img src="/github-metrics.svg" alt="Metrics" /></picture> | <img src="/top-langs.svg" alt="Top Languages"/><br/><img src="https://github-readme-streak-stats-eight.vercel.app/?user=xCaptaiN09&theme=transparent&hide_border=true&short_numbers=true&card_width=200" alt="GitHub Streak" /> |
 
 ---

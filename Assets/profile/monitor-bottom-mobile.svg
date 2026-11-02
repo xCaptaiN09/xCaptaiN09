@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="314" viewBox="0 0 420 314" role="img" aria-labelledby="title">
+<title id="title">Samsung / Intel Core 5 120U / Arch Linux / Hyprland / Caelestia / Kitty / Zed / Python / C / C++ / Shell. Student by day. Maintainer by night.</title>
+<defs>
+<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect y="3" width="4" height="1" fill="#000" fill-opacity=".09"/></pattern>
+<filter id="glow" x="-10%" y="-35%" width="120%" height="170%"><feGaussianBlur stdDeviation=".6"/><feComponentTransfer><feFuncA type="linear" slope=".35"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+text{font-family:ui-monospace,'DejaVu Sans Mono',Consolas,monospace;font-weight:400}
+.phosphor{fill:#b2d5b7}.dim{fill:#88a98f}.dots{fill:#c2e4c5;filter:url(#glow)}
+.rule{stroke:#3c5143;stroke-width:1}.cell{fill:#203428;fill-opacity:.25;stroke:#3d5545}.accent{stroke:#9bc5a4;stroke-width:2}
+.cursor{fill:#b2d5b7;animation:blink 1.2s step-end infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@media(prefers-color-scheme:light){.phosphor{fill:#315e3e}.dim{fill:#52755b}.dots{fill:#315e3e}.rule{stroke:#9caf9f}.cell{fill:#c5d9c9;fill-opacity:.4;stroke:#9caf9f}.accent{stroke:#52755b}.cursor{fill:#315e3e}}
+
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<path class="rule" d="M12 7H408"/><text x="12" y="30" font-size="12" class="dim">$ fastfetch</text><rect class="cell" x="12" y="43" width="192" height="48" rx="2"/><path class="accent" d="M13 54v13"/><text x="24" y="60" font-size="10" class="dim">LAPTOP</text><text x="24" y="79" font-size="14" class="phosphor">Samsung</text><rect class="cell" x="216" y="43" width="192" height="48" rx="2"/><path class="accent" d="M217 54v13"/><text x="228" y="60" font-size="10" class="dim">CPU</text><text x="228" y="79" font-size="14" class="phosphor">Core 5 120U</text><rect class="cell" x="12" y="101" width="192" height="48" rx="2"/><path class="accent" d="M13 112v13"/><text x="24" y="118" font-size="10" class="dim">OS</text><text x="24" y="137" font-size="14" class="phosphor">Arch Linux</text><rect class="cell" x="216" y="101" width="192" height="48" rx="2"/><path class="accent" d="M217 112v13"/><text x="228" y="118" font-size="10" class="dim">WM</text><text x="228" y="137" font-size="14" class="phosphor">Hyprland</text><rect class="cell" x="12" y="159" width="192" height="48" rx="2"/><path class="accent" d="M13 170v13"/><text x="24" y="176" font-size="10" class="dim">SHELL</text><text x="24" y="195" font-size="14" class="phosphor">Caelestia</text><rect class="cell" x="216" y="159" width="192" height="48" rx="2"/><path class="accent" d="M217 170v13"/><text x="228" y="176" font-size="10" class="dim">TERM / EDITOR</text><text x="228" y="195" font-size="14" class="phosphor">Kitty / Zed</text><rect class="cell" x="12" y="217" width="396" height="48" rx="2"/><path class="accent" d="M13 228v13"/><text x="24" y="234" font-size="10" class="dim">LANGUAGES</text><text x="24" y="253" font-size="14" class="phosphor">Python / C / C++ / Shell</text><text x="12" y="288" font-size="12" class="phosphor">Student by day. Maintainer by night.</text><text x="12" y="309" font-size="12" class="dim">$</text><rect class="cursor" x="29" y="299" width="6" height="11"/>
+<rect width="420" height="314" fill="url(#lines)" pointer-events="none"/>
+</svg>

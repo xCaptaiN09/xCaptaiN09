@@ -27,3 +27,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="Assets/profile/toolbox-footer-mobile.svg" />
+    <img src="Assets/profile/toolbox-footer.svg" width="850" alt="Animated logos: Claude, Codex, GitHub, GitLab, Git, Arch Linux and Linux." />
+  </picture>
+</p>

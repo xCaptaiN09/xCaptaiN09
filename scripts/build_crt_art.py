@@ -80,7 +80,7 @@ def bottom(mobile=False):
     x=12 if mobile else 18
     p=[f'<path class="rule" d="M{x} 7H{w-x}"/>',text(x,30,"$ fastfetch",12,"dim")]
     values=(("LAPTOP","Samsung"),("CPU","Core 5 120U"),("OS","Arch Linux"),("WM","Hyprland"),
-            ("SHELL","Caelestia"),("TERM / EDITOR","Kitty / Zed"),("LANGUAGES","Python / C / C++ / Shell"))
+            ("SHELL","ii-p3drovfx"),("TERM / EDITOR","Kitty / Zed"),("LANGUAGES","Python / C / C++ / Shell"))
     if mobile:
         for i,(label,value) in enumerate(values[:6]):
             p+=cell(x+(i%2)*204,43+(i//2)*58,192,label,value)
@@ -90,7 +90,7 @@ def bottom(mobile=False):
         for i,(label,value) in enumerate(values[:4]):p+=cell(x+i*207,43,193,label,value)
         for i,(label,value) in enumerate(values[4:]):p+=cell(x+i*207,101,400 if i==2 else 193,label,value)
         p += [text(x,174,"Student by day. Maintainer by night.",13),text(x,196,"$",12,"dim"),'<rect class="cursor" x="35" y="186" width="6" height="11"/>',text(w-x,196,"BUILT FROM SOURCE",10,"dim",True)]
-    return svg(w,h,'Samsung / Intel Core 5 120U / Arch Linux / Hyprland / Caelestia / Kitty / Zed / Python / C / C++ / Shell. Student by day. Maintainer by night.',p)
+    return svg(w,h,'Samsung / Intel Core 5 120U / Arch Linux / Hyprland / ii-p3drovfx / Kitty / Zed / Python / C / C++ / Shell. Student by day. Maintainer by night.',p)
 
 
 def link(name,mobile=False):

@@ -10,12 +10,6 @@ Run `python3 scripts/build_logo_art.py` to regenerate the two footer SVGs. All s
 
 Run `python3 scripts/preview_profile.py` to preview the whole README locally. Refresh after edits; Ctrl+C stops the server. For a still frame, use `python3 scripts/build_logo_art.py --frame 4 --output /tmp/toolbox-preview`.
 
-## Setup label
-
-The visible setup labels are drawn by `scripts/build_crt_art.py`. Changing an image's alt text in README.md changes its accessible description; it does not alter the text inside the image. After changing the generator, run `python3 scripts/build_crt_art.py`, then include both `Assets/profile/monitor-bottom.svg` and `Assets/profile/monitor-bottom-mobile.svg` in the commit.
-
-This revision changes Caelestia to ii-p3drovfx in the generator and in both generated setup images. It does not modify the README.
-
 ## Vector sources
 
 | Mark | Source |

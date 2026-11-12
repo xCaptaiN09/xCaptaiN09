@@ -45,18 +45,18 @@ FIELDS = (
     ("Editor", "Zed"),
     ("Languages", "Python / C / C++ / Shell"),
 )
-LETTER_COLORS = ("green", "green", "green", "teal", "teal", "blue", "blue", "blue", "mauve", "mauve")
+LETTER_COLORS = ("yellow",) * 10
 
-# (dark, light) per colour name. Dark is Catppuccin Mocha, light is Catppuccin Latte.
+# (dark, light) per colour name. Dark follows Ayu Dark; light values are adjusted for contrast.
 PALETTE = {
-    "fg": ("#cdd6f4", "#4c4f69"),
-    "dim": ("#7f849c", "#7c7f93"),
-    "green": ("#a6e3a1", "#40a02b"),
-    "blue": ("#89b4fa", "#1e66f5"),
-    "mauve": ("#cba6f7", "#8839ef"),
-    "teal": ("#94e2d5", "#179299"),
-    "yellow": ("#f9e2af", "#df8e1d"),
-    "red": ("#f38ba8", "#d20f39"),
+    "fg": ("#bfbdb6", "#5c6166"),
+    "dim": ("#707a8c", "#8a9199"),
+    "green": ("#7fd962", "#4f9a2b"),
+    "blue": ("#53bdfa", "#1f7fc4"),
+    "mauve": ("#cda1fa", "#8a52c9"),
+    "teal": ("#90e1c6", "#1f9a78"),
+    "yellow": ("#f9af4f", "#c07a00"),
+    "red": ("#ea6c73", "#c93f46"),
     "arch": ("#1793d1", "#1793d1"),
 }
 SWATCHES = ("red", "green", "yellow", "blue", "mauve", "teal", "fg", "dim")
@@ -319,15 +319,15 @@ def build_fetch(layout: Layout, t0: float, arch_path: str) -> str:
         0.1,
     )
     title = (
-        f'<text x="{tx}" y="{y1:g}" xml:space="preserve"><tspan class="f-blue b">cap</tspan>'
-        '<tspan class="f-fg">@</tspan><tspan class="f-blue b">arch</tspan></text>'
+        f'<text x="{tx}" y="{y1:g}" xml:space="preserve"><tspan class="f-green b">cap</tspan>'
+        '<tspan class="f-fg">@</tspan><tspan class="f-green b">arch</tspan></text>'
         f'<path class="k-dim" d="M{tx} {y1 + 8:g}h{8 * adv:g}" stroke-width="1" stroke-opacity=".6"/>'
     )
     scene.reveal(title, 0.08)
     for i, (key, value) in enumerate(FIELDS):
         y = y1 + line * (i + 1)
         row = (
-            f'<text x="{tx}" y="{y:g}" class="f-blue b" textLength="{len(key) * adv:g}" xml:space="preserve">{escape(key)}</text>'
+            f'<text x="{tx}" y="{y:g}" class="f-yellow b" textLength="{len(key) * adv:g}" xml:space="preserve">{escape(key)}</text>'
             f'<text x="{tx + len(key) * adv:g}" y="{y:g}" class="f-dim">:</text>'
             f'<text x="{tx + key_w:g}" y="{y:g}" class="f-fg">{escape(value)}</text>'
         )
@@ -347,8 +347,8 @@ def build_fetch(layout: Layout, t0: float, arch_path: str) -> str:
 def build_status() -> str:
     width, height = 112, 20
     body = (
-        f'<rect width="{width}" height="{height}" fill="#a6e3a1"/>'
-        f'<text x="{width / 2:g}" y="14" text-anchor="middle" font-size="11" font-weight="700" fill="#1e1e2e" '
+        f'<rect width="{width}" height="{height}" fill="#7fd962"/>'
+        f'<text x="{width / 2:g}" y="14" text-anchor="middle" font-size="11" font-weight="700" fill="#0b0e14" '
         f'textLength="{width - 16}" xml:space="preserve">[main] 0:fish*</text>'
     )
     return svg_doc(width, height, 11, "tmux status segment", body)
